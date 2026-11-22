@@ -1,0 +1,34 @@
+# CRISP-DM
+
+iterate over:
+1. Business Understanding
+2. Data understanding
+3. Data preparation
+4. Modeling
+5. Evaluation
+6. Deploy
+
+
+## 1. Business Understanding
+
+ A group of oncologists want to become more familiar with data science models
+ They especially want to have explainability, and understanding the most important features for the predictions.
+
+Task:
+Develop multiple classification models, predict: tumor malignant or benign, with high accuracy (F1 score > 0.95). 
+The models should be interpretable. 
+Investigate feature importance on different models.
+The accuracy should be high, but the interpretability of the model is the final aim.
+The outcomes should be presented/communicated to non-experts to convince them about the trustworthiness.
+
+
+To help develop confidence in the models, discuss the importance of each explanatory variable
+and make the model results as interpretable as possible. 
+In addition, a detailed error analysis is very important, to understand the weaknesses of the approach. 
+
+Propose how to integrate into daily work of the doctors, e.g. GUI schematic
+
+## 2. Data understanding
+
+Assess the quality of the data set provided. 
+Prepare and visualize your findings in such a way, to understand the important relationships simply and clearly
