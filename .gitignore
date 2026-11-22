@@ -1,0 +1,32 @@
+# uv / Python virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter / IPython / ipykernel
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+.jupyter/
+
+# Environment variables & local secrets
+.env
+.env.*
+!.env.example
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
