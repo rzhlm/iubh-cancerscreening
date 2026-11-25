@@ -32,3 +32,6 @@ Propose how to integrate into daily work of the doctors, e.g. GUI schematic
 
 Assess the quality of the data set provided. 
 Prepare and visualize your findings in such a way, to understand the important relationships simply and clearly
+
+Due to unconventional trailing commas, a ghost column was seen. It is removed.
+
